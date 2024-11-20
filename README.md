@@ -29,6 +29,6 @@ Now, this consistency isn't present in all stocks, so here are some steps I take
 5. Calculate the standard deviation of these troughs and compare it to some threshold to see if the troughs are consistent. Only continue if they are consistent.
 6. And lastly, check that $D$ for the current day is less than the mean of the troughs. This means that we are currently at a support level.
 
-If all of these criteria are met, then this is a buying opportunity. It's best to run this algorithm once a day, late enough where the markets aren't as volatile but early enough so that theres still enough time in the day to reap upward movement. I like doing my trades at 1 P.M. EST.
+If all of these criteria are met, then this is a buying opportunity. Buy and look to sell when the underlying goes up or down 3-5%. It's best to run this algorithm once a day, late enough where the markets aren't as volatile but early enough so that theres still enough time in the day to reap upward movement. I like doing my trades at 1 P.M. EST.
 
 I will update this page later with the results of my paper trading with this algorithm.
