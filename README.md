@@ -25,6 +25,6 @@ Now, this consistency isn't present in all stocks, so here are some steps I take
 1. Reduce my search to the S&P 500. I only want to trade in highly liquid, reliable environments, so that generally means choosing high market-cap stocks.
 2. Select stocks whose 200-Day SMA graphs have a decently positive slope (at the current day, meaning at the far right of the graph). We only want to select stocks that are trending upwards, otherwise we risk trying to "catch a falling knife", so to speak.
 3. Calculate the difference between the closing price and the 200-Day SMA for the last 200 days. We denote this value as $D$.
-4. Identify some number of "troughs" (I choose 5) in the graph of $D$. I define a trough as a low point in this graph that isn't close to any other troughs. Think of troughs as downwards spikes, rather than flat lows.
+4. Identify some number of "troughs" (I choose 7) in the graph of $D$. I define a trough as a low point in this graph that isn't close to any other troughs, where "closeness" is defined as being within 5 business/market days. Think of troughs as downwards spikes, rather than flat lows.
 5. Calculate the standard deviation of these troughs and compare it to some threshold to see if the troughs are consistent. Only continue if they are consistent.
 6. And lastly, check that $D$ for the current day is less than the mean of the troughs. This means that we are currently at a support level.
