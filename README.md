@@ -1,5 +1,7 @@
 # Shane's Swing Trading Strategy
 
+## WINRATE: 8/8
+
 Generally, stocks have support levels, which signify that a stock is unlikely to go below a certain point. When a stock reaches a supposed support level, that would signify a buying opportunity. Here is a year graph of PG, with the potential support levels underlined in red (source: Robinhood).
 
 ![Alt text](/images/PG%20support%20lines.png?raw=true "Optional Title")
@@ -32,5 +34,3 @@ Now, this consistency isn't present in all stocks, so here are some steps I take
 If all of these criteria are met, then this is a buying opportunity. Buy and look to sell when the underlying goes up or down 3-5% to take profit but to also avoid losing too much to falling knives. It's best to run this algorithm once a day, late enough where the markets aren't as volatile but early enough so that theres still enough time in the day to reap upward movement from reversals. I like doing my trades at 1 P.M. EST.
 
 I will update this page later with the results of my paper trading with this algorithm.
-
-WINRATE: 7/7
