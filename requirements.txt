@@ -1,0 +1,13 @@
+alpaca.trading
+
+pandas
+
+alpaca
+
+alpaca-py
+
+matplotlib
+
+python-dotenv
+
+alpaca_trade_api
