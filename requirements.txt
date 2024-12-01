@@ -1,4 +1,4 @@
-alpaca.trading
+alpaca_trade_api
 
 pandas
 
@@ -11,3 +11,7 @@ matplotlib
 python-dotenv
 
 alpaca_trade_api
+
+ta-lib
+
+lxml
