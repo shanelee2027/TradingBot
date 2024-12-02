@@ -1,6 +1,6 @@
 # Shane's Swing Trading Strategy
 
-## WINRATE (11/20 - 11/29): 14/14
+## WINRATE (11/20 - 12/2): 15/15
 
 Generally, stocks have support levels, which signify that a stock is unlikely to go below a certain point. When a stock reaches a supposed support level, that would signify a buying opportunity. Here is a year graph of PG, with the potential support levels underlined in red (source: Robinhood).
 
