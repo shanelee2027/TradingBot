@@ -15,3 +15,5 @@ alpaca_trade_api
 ta-lib
 
 lxml
+
+get-all-tickers
